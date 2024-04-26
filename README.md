@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arjun
+=============================================================================================================================
 
-<!--
-**ArjunVijayamoorthy/ArjunVijayamoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Test Engineer
+----------------------
 
-Here are some ideas to get you started:
+I am a Software Test Engineer . My interests range from technology to cycling. I am also interested in DIY,Gaming,Cooking, Cricket, and movies.Currently working in developing Framework for Testing WebApps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in India
+*   🖥️  See my portfolio at [About me](http://about.me/arjun_v)
+*   ✉️  You can contact me at [arjunmoorthy06@gamil.com](mailto:arjunmoorthy06@gamil.com)
+*   🚀  I'm currently working on [Automation Framework](http://github.com/ArjunVijayamoorthy/Selenium)
+*   🧠  I'm learning Selenium Java, testRigor, TOSCA Automation, Postman### Skills 
